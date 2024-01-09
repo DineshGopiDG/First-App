@@ -1,6 +1,6 @@
 ## firstapp
 
-it my 1
+itsi my
 
 #### License
 

@@ -1,7 +1,7 @@
 app_name = "firstapp"
 app_title = "firstapp"
 app_publisher = "MRR"
-app_description = "it my 1"
+app_description = "itsi my"
 app_email = "vmram87@gmail.com"
 app_license = "mit"
 # required_apps = []
